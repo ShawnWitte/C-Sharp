@@ -1,0 +1,7 @@
+C:\Users\shawn\source\repos\Machine (Template Method)\Machine (Template Method)\bin\Debug\Machine (Template Method).exe.config
+C:\Users\shawn\source\repos\Machine (Template Method)\Machine (Template Method)\bin\Debug\Machine (Template Method).exe
+C:\Users\shawn\source\repos\Machine (Template Method)\Machine (Template Method)\bin\Debug\Machine (Template Method).pdb
+C:\Users\shawn\source\repos\Machine (Template Method)\Machine (Template Method)\obj\Debug\Machine (Template Method).csprojResolveAssemblyReference.cache
+C:\Users\shawn\source\repos\Machine (Template Method)\Machine (Template Method)\obj\Debug\Machine (Template Method).csproj.CoreCompileInputs.cache
+C:\Users\shawn\source\repos\Machine (Template Method)\Machine (Template Method)\obj\Debug\Machine (Template Method).exe
+C:\Users\shawn\source\repos\Machine (Template Method)\Machine (Template Method)\obj\Debug\Machine (Template Method).pdb
